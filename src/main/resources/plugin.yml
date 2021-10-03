@@ -1,0 +1,5 @@
+name: ST-TabList
+version: '1.0'
+main: com.stuudent.tablist.TabListCore
+depend:
+  - 'ProtocolLib'
